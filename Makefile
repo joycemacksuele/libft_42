@@ -6,7 +6,7 @@
 #    By: jfreitas <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/06/24 10:43:20 by jfreitas          #+#    #+#              #
-#    Updated: 2019/11/23 13:19:31 by jfreitas         ###   ########.fr        #
+#    Updated: 2021/02/27 02:13:56 by jfreitas         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -19,6 +19,7 @@ CFLAGS = -Wall -Wextra -Werror
 SRC = ft_atoi.c \
 	  ft_bzero.c \
 	  ft_calloc.c \
+	  ft_intlen.c \
 	  ft_isalnum.c \
 	  ft_isalpha.c \
 	  ft_isascii.c \
